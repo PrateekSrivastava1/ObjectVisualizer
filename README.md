@@ -17,6 +17,6 @@ How to use:
 2. For left direction use <- Arrow Button
 3. For right direction use -> Arrow Button.
 
-![App ScreenShots](https://drive.google.com/file/d/1ynyGC6LozkSaHakWV92n8GPVItKzFy6z/view?usp=sharing)
+![App ScreenShot](https://drive.google.com/file/d/1ynyGC6LozkSaHakWV92n8GPVItKzFy6z/view?usp=sharing)
 
-![App ScreenShots](https://drive.google.com/file/d/1hj8IRTAPgZUvduKJMncAMt7pcISfEGAE/view?usp=sharing)
+![App ScreenShot](https://drive.google.com/file/d/1hj8IRTAPgZUvduKJMncAMt7pcISfEGAE/view?usp=sharing)
