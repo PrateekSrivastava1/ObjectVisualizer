@@ -10,7 +10,7 @@ identifies with respect to it's size and distance
 between object and the wall(or any other object).
 
 ### Utilized
-Utilized: Concept of Ray Casting, HTML, CSS, JavaScript, p5.js Library and Material Design Lite.
+Concept of Ray Casting, HTML, CSS, JavaScript, p5.js Library and Material Design Lite.
 
 ![Screen Shot](https://i.ibb.co/gJMtRK6/ov.jpg)
 
@@ -21,7 +21,7 @@ Utilized: Concept of Ray Casting, HTML, CSS, JavaScript, p5.js Library and Mater
 
 This app is hosted here: [Object Visualizer](https://prateek-pixels.github.io/ObjectVisualizer/)
 
-How to use: 
+### How to use: 
 1. For forward and Backword direction use mouse
-2. For left direction use <- Arrow Button
-3. For right direction use -> Arrow Button.
+2. For left direction use Home Arrow Button
+3. For right direction use End Arrow Button.
