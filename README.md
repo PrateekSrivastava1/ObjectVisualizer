@@ -1,14 +1,23 @@
-# ObjectVisualizer
+# Object Visualizer
 
 I am great fan of Data Visualization, I always wanted to see how any 
 other object observe things with respect to there height.
-like An Elephant Vision, just imagine how we apper in there eyes.
+Like An Elephant Vision, just imagine how we apper in there eyes.
 
+### About
 This is an **Object** **Visualizer** and it shows you images which a object
-identify with respect to it's size and distance 
+identifies with respect to it's size and distance 
 between object and the wall(or any other object).
 
+### Utilized
 Utilized: Concept of Ray Casting, HTML, CSS, JavaScript, p5.js Library and Material Design Lite.
+
+![Screen Shot](https://i.ibb.co/gJMtRK6/ov.jpg)
+
+![Screen Shot](https://i.ibb.co/Xx4ZyFx/ov1.jpg)
+
+![Screen Shot](https://i.ibb.co/9ZHLH7b/ov2.jpg)
+
 
 This app is hosted here: [Object Visualizer](https://prateek-pixels.github.io/ObjectVisualizer/)
 
@@ -16,8 +25,3 @@ How to use:
 1. For forward and Backword direction use mouse
 2. For left direction use <- Arrow Button
 3. For right direction use -> Arrow Button.
-
-![App ScreenShot](https://drive.google.com/file/d/1hj8IRTAPgZUvduKJMncAMt7pcISfEGAE/view?usp=sharing)
-
-![App ScreenShot](https://drive.google.com/file/d/1ynyGC6LozkSaHakWV92n8GPVItKzFy6z/view?usp=sharing)
-
