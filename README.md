@@ -2,7 +2,7 @@
 
 I am great fan of Data Visualization, I always wanted to see how any 
 other object observe things with respect to there height.
-Like An Elephant Vision, just imagine how we apper in there eyes.
+Like An Elephant Vision, just imagine how we appears in there eyes.
 
 ### About
 This is an **Object** **Visualizer** and it shows you images which a object
