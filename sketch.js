@@ -22,7 +22,7 @@ function setup() {
   //   let y2 = random(400);
   //   walls[i] = new Boundary(x1, y1, x2, y2);
   // }
-  let card = createDiv('I am fan of Data Visualization, I always wanted to see how any other object observe things with respect to there height. Like An Elephant Vision, just imagine how we apper in there eyes. This is an Object Visualizer and it shows you images which a object identify with respect to there size and distance between object and the wall. How to use: 1. For forward and Backword direction use mouse, 2. For left direction use <- Arrow Button, 3. For right direction use -> Arrow Button. Now Click this text to start');
+  let card = createDiv('I am fan of Data Visualization, I always wanted to see how any other object observe things with respect to there height. Like An Elephant Vision, just imagine how we appear in there eyes. This is an Object Visualizer and it shows you images which a object identify with respect to there size and distance between object and the wall. How to use: 1. For forward and Backword direction use mouse, 2. For left direction use <- Arrow Button, 3. For right direction use -> Arrow Button. Now Click this text to start');
   card.addClass('demo-card-wide mdl-card mdl-shadow--2dp pos mdl-card__title');
   walls[0] = new Boundary(50, 50, 220, 50);
   walls[1] = new Boundary(280, 50, 450, 50);
